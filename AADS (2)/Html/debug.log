@@ -1,0 +1,2 @@
+[1113/173729.264:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0117/131825.666:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
